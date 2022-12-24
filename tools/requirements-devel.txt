@@ -4,4 +4,4 @@ yamllint>=1.10.0
 elasticsearch
 elasticsearch-async
 setuptools
-wheel
+wheel>= 0.38.0
